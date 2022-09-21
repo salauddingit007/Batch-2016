@@ -1,7 +1,12 @@
 .half-width img {
     width: 80%;
+
 }
 
 .half-width {
     width: 50%;
+}
+
+section {
+    display: flex;
 }
